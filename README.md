@@ -1,2 +1,2 @@
-# fc-presets-ts
-Front core Typescript presets
+# rui-presets-ts
+Reagentum UI Typescript presets
